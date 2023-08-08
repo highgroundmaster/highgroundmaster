@@ -27,7 +27,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=highgroundmaster&theme=synthwave" alt="Highground's stats" />
 </p>
 <p align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=highgroundmaster&theme=synthwave" alt="Highground's stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=highgroundmaster&show_icons=true&include_all_commits=true&theme=synthwave" alt="Highground's stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=highgroundmaster&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
 </p>
