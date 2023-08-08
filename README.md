@@ -2,10 +2,8 @@
 <h2 align='center'>Hey There! I am Rithvika <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="15px"></h2>
 
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/rithvika-p-251831133/" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"> LinkedIn</a></code>
-  <code><a href="rithvikapervala@protonmail.com" title="Email"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Antu_gmail.svg  "> Email</a></code>
-  
+  <code><a href="https://www.linkedin.com/in/rithvika-p-251831133/" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"> LinkedIn</a></code>
+  <code><a href="rithvikapervala@protonmail.com" title="Email"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Antu_gmail.svg"> Email</a></code>
 </h5>
 <h1 align="center">
   <a href="">
@@ -25,11 +23,13 @@
 <br/>
 
 <p align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=highgroundmaster&theme=github" alt="Highground's stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=highgroundmaster&theme=github" alt="Highground's stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=highgroundmaster&theme=synthwave&hide=jupyter%20Notebook" alt="Highground's Top Languages" />   
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=highgroundmaster&theme=synthwave" alt="Highground's stats" />
 </p>
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=highgroundmaster&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=highgroundmaster&theme=synthwave" alt="Highground's stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=highgroundmaster&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
 </p>
 
 ## Skills
